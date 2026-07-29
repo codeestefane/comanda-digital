@@ -1,6 +1,6 @@
 # Comanda Digital com API Google Translator
 
-Este projeto utiliza ES JavaScript Modules. Para executá-lo, utilize a extensão Live Server no Visual Studio Code ou abra um servidor local no seu computador.
+📌 Este projeto utiliza ES JavaScript Modules. Para executá-lo, utilize a extensão Live Server no Visual Studio Code ou abra um servidor local no seu computador.
 
 ## Tela inicial:
 <img width="1917" height="963" alt="image" src="https://github.com/user-attachments/assets/7496dd1e-5326-4bc5-bad8-bb1b2d85ce2d" />
